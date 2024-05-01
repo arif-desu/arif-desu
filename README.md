@@ -4,7 +4,6 @@ I am an Embedded Systems engineer, enthusiastic about computing and tech.
 
 
 - 🔭 Currently working on [Lyra SDK](https://github.com/arif-desu/Lyra)
-- 🌱 I’m currently learning Linux Device Drivers
 
 - 🛠️ Tech Stack
 
