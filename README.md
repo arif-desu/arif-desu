@@ -3,7 +3,7 @@
 I am an Embedded Systems engineer, enthusiastic about computing and tech.
 
 
-- 🔭 Currently working on [Lyra SDK](https://github.com/arif-desu/Lyra)
+- 🔭 Currently working on [Koji Build Automation](https://github.com/arif-desu/koji-build-automation)
 
 - 🛠️ Tech Stack
 
